@@ -14,7 +14,7 @@ html, body {
 #logo {
   margin: auto;
   padding: 0;
-  height: 7%;
+  min-height: 7%;
   text-align: center;
   background-color: #7FDBFF;
 }
